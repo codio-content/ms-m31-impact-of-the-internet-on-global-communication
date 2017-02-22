@@ -1,0 +1,40 @@
+{
+ "sections": [
+  {
+   "id": "ce6ecf38-5ccb-4c1b-7283-921550c1e559",
+   "title": "Introduction",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-ce6e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a1d6ab41-9b0a-2738-b18a-72d16b92d07c",
+   "title": "Personal Communication",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Personal-Communication-a1d6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bdc6ea46-e0fc-c082-0af2-7218e0eb1e0b",
+   "title": " Check It! - Personal Communication",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-Check-It----Personal-Communication-bdc6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

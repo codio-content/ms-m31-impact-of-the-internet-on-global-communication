@@ -1,0 +1,36 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-512509209",
+  "source": {
+   "name": "Personal Communication Question",
+   "showName": false,
+   "instructions": "Which of these is **not** a way that the internet has impacted personal communication?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "d5fb73d1-c3d4-0a51-3129-f0d3e1f26ace",
+     "correct": false,
+     "answer": "Having many ways to communicate online builds personal relationships."
+    },
+    {
+     "_id": "5502e067-765a-45c9-85b9-341f471e4920",
+     "correct": false,
+     "answer": "Constant, ongoing communication makes people feel closer."
+    },
+    {
+     "_id": "b1d594ee-8bdf-6d66-405e-6bf1fed2e4d2",
+     "correct": true,
+     "answer": "Using modern technology makes people feel important."
+    },
+    {
+     "_id": "6745fc4a-4316-5906-6aea-9ef59709de62",
+     "correct": false,
+     "answer": "People share more details of their lives and understand each other better."
+    }
+   ]
+  }
+ }
+]
